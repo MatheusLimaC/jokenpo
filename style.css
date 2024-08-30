@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Bebas+Neue&family=Istok+Web:ital,wght@0,400;0,700;1,400;1,700&family=Jersey+10&family=Syne:wght@400..800&family=Tilt+Neon&display=swap');
+
+body {
+    /* #E2DADB | #DAD4EF */
+    background-color: #E2DADB;
+}
+
+h1 {
+    font-family: "Jersey 10", Arial, Helvetica, sans-serif;
+    font-size: 3em;
+}
+
+.dropdown-menu {
+    background-color: rgba(255, 255, 255, 0);
+    border: none;
+    text-align: center;
+}
+
+.dropdown-item:hover {
+    background-color: rgba(255, 255, 255, 0.151)
+}
+
+.col-3 {
+    padding: 20px;
+    opacity: 0.5;
+    transition: 0.2s;
+}
+
+.col-3:hover {
+    opacity: 1;
+}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.5em;
+}
+
+.stats {
+    margin-top: 5%;
+}
+
+.stats > p {
+    font-size: 1.2em;
+}
+
+#parte2 {
+    margin-bottom: 110px;
+}
